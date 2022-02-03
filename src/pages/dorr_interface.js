@@ -5,47 +5,47 @@ const Door_interface = () => {
         <li className="list-group-item sidebar-separator-title text-muted d-flex align-items-center menu-collapsed">
           <small>DOOR INTERFACEE</small>
         </li>
-        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get State Of All Doors</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Door State By Door Id</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Door State By Door Sn Of Device</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Door Info By DOor Id</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Door List</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Remote Close Door By Id</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Remote Close Door By Name</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Remote Open Door By Id</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Remote Open Door By Name</span>
           </div>

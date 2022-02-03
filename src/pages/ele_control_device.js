@@ -5,12 +5,12 @@ const Ele_contr_device = () => {
         <li className="list-group-item sidebar-separator-title text-muted d-flex align-items-center menu-collapsed">
           <small>ELEVATOR CONTROL DEVICE</small>
         </li>
-        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Elveator Device List</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Elevator Device Info By Sn</span>
           </div>

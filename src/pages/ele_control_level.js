@@ -5,27 +5,27 @@ const Ele_contr_level = () => {
         <li className="list-group-item sidebar-separator-title text-muted d-flex align-items-center menu-collapsed">
           <small>ELEVATOR CONTROL LEVEL</small>
         </li>
-        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Elevator Level By Id</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-dark list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Delete Person Level</span>
           </div>
         </a>
-        <a href="#" className="bg-dark list-group-item list-group-item-action">
+        <a href="#" className="bg-secondary text-light list-group-item list-group-item-action">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get elevator Level By Name</span>
           </div>
         </a>
-        <a href="#" className="bg-dark list-group-item list-group-item-action">
+        <a href="#" className="bg-secondary text-light list-group-item list-group-item-action">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Elevator Level Group List</span>
           </div>
         </a>
-        <a href="#" className="bg-dark list-group-item list-group-item-action">
+        <a href="#" className="bg-secondary text-light list-group-item list-group-item-action">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Sync Elvator Group Info To Device</span>
           </div>

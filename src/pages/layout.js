@@ -13,8 +13,8 @@ const Layout = () => {
                 <span className="navbar-toggler-icon" />
               </button>
               <a className="navbar-brand" href="./static/Banner-2022_ZKTeco_LinkedIn_Personal.jpg" target="blank">
-                <img src="./static/Banner-2022_ZKTeco_LinkedIn_Personal.jpg" width={45} height={30} className="d-inline-block align-top" alt="" />
-                <span className="menu-collapsed">ZKTECO</span>
+                <img src="images/zklgo.png" width={100} height={30} className="d-inline-block align-top" alt="awe" />
+ 
               </a>
               <div className="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul className="navbar-nav ml-auto" style={{fontSize: 'small'}}>
@@ -60,8 +60,7 @@ const Layout = () => {
                   <li className="nav-item">
                     <a className="nav-link floorInterface" href="/floor_interface">FLOOR INTERFACE</a>
                   </li>
-                  {/* This menu is hidden in bigger devices with d-sm-none. 
-                   The sidebar isn't proper for smaller screens imo, so this dropdown menu can keep all the useful sidebar itens exclusively for smaller screens  */}
+           
                 </ul>
               </div>
             </nav>
