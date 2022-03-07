@@ -5,16 +5,17 @@ const Access_contr_dev = () => {
         <li className="list-group-item sidebar-separator-title text-muted d-flex align-items-center menu-collapsed">
           <small>ACCESS CONTROL DEVICE</small>
         </li>
-        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-primary text-light list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu1" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Device List</span>
           </div>
         </a>
-        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-primary text-light list-group-item list-group-item-action flex-column align-items-start">
+        <a href="#submenu2" data-toggle="collapse" aria-expanded="false" className="bg-secondary text-light list-group-item list-group-item-action flex-column align-items-start">
           <div className="d-flex w-100 justify-content-start align-items-center">
             <span className="menu-collapsed">Get Device Info By Sn</span>
           </div>
         </a>
+
       </ul>{/* List Group END*/}
     </div>{/* sidebar-container END */}
     {/* MAIN */}

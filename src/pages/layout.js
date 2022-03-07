@@ -7,7 +7,7 @@ import React, { Component } from 'react';
 const Layout = () => {
     return (
       <>
-        <div>
+        <div className="cont">
             <nav className="navbar navbar-expand-md navbar-dark bg-dark">
               <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" />

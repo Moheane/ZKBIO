@@ -19,3 +19,39 @@
 .nav-link{
   color: aliceblue;
 }
+
+
+#root::after{
+  background-image: url('./../public/images/ZKTeco-SDK.jpg');
+  background-size: contain;
+  background-repeat: round;
+  opacity: 0.3;
+  background-position: center;
+  position:absolute;
+  width: auto;
+  height: 65vh;
+  z-index: -1;
+
+}
+
+.con, .cont::before{
+  background-image: url('./../public/images/appi.png');
+  background-size: contain;
+  background-repeat: round;
+
+  background-position: center;
+  position:relative;
+  width: auto;
+  height: 65vh;
+  z-index: -1;
+}
+
+.con > h1{
+  text-align: center;
+  margin-top: 5%;
+  padding: none;
+  position: relative;
+  z-index: 2;
+  background-color: greenyellow;
+  padding: .05em;
+}
